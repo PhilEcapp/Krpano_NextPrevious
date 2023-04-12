@@ -1,4 +1,3 @@
-# 
 <h2 dir="auto">Krpano Next and Previous</h2>
 Krpano - Catching key strokes to move panos Next and Previous. This is the XML code for Krpano.  
 <pre>
