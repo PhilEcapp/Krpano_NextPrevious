@@ -64,4 +64,5 @@ Krpano - Catching key strokes to move panos Next and Previous. This is the XML c
     inc(i);
     if(i LT scene.count, nextscene(findnext));
     );
-  </action>```
+  </action>
+  ```
