@@ -67,6 +67,3 @@ Krpano - Catching key strokes to move panos Next and Previous. This is the XML c
   </action>
 
 </pre>
-
-<h2 dir="auto">FETCH JSON DATA</h2>
-This is the js to fetch data from JSON file.
