@@ -1,8 +1,8 @@
 <h2 dir="auto">Krpano Next and Previous</h2>
-Krpano - Catching key strokes to move panos Next and Previous. This is the XML code for Krpano.  
-<pre dir="auto">
 
-<events devices="desktop" onkeydown="keydown();" onkeyup="keyup();" />
+Krpano - Catching key strokes to move panos Next and Previous. This is the XML code for Krpano.  
+
+```<events devices="desktop" onkeydown="keydown();" onkeyup="keyup();" />
 
   <action name="keydown">
 
@@ -64,6 +64,4 @@ Krpano - Catching key strokes to move panos Next and Previous. This is the XML c
     inc(i);
     if(i LT scene.count, nextscene(findnext));
     );
-  </action>
-
-</pre>
+  </action>```
